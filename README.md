@@ -13,8 +13,8 @@
 <!-- Badges -->
 
 <p align="center">
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IgorFreitasCruz/api-fastapi">
-   <img alt="GitHub license" src="https://img.shields.io/github/license/IgorFreitasCruz/api-fastapi?logo=MIT"></a>
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IgorFreitasCruz/monitoramento-mongodb">
+   <img alt="GitHub license" src="https://img.shields.io/github/license/IgorFreitasCruz/monitoramento-mongodb?logo=MIT"></a>
 </p>
 
 <!-- Status -->
